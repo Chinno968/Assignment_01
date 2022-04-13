@@ -2,7 +2,7 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     font-family: 'Merriweather', serif;
     font-family: 'Poppins', sans-serif;
-    background-color: aliceblue;
+    background-color: gainsboro;
 
 }
 
@@ -145,6 +145,10 @@ body {
     padding-top: 130px;
 }
 
+.devinfo h1 {
+    font-size: 35px;
+}
+
 /* Section 3 ended */
 
 
@@ -159,7 +163,7 @@ body {
 .community {
     display: flex;
     background-image: url(images/shapes/shape-1.png);
-    background-size: 280px;
+    background-size: 500px;
     background-repeat: no-repeat;
     background-position: right;
 
@@ -175,7 +179,11 @@ body {
 
 .community-info {
 
-    margin-top: 120px;
+    margin-top: 100px;
+}
+
+.community-info h1 {
+    font-size: 35px;
 }
 
 /* Section 4 ended */
@@ -186,8 +194,10 @@ body {
 .Viruses {
     margin: 100px;
 
+}
 
-
+.Viruses h1 {
+    font-size: 35px;
 }
 
 .coronatitle {
@@ -221,3 +231,14 @@ body {
 
 
 /* Section 5 ended */
+
+
+.mission-ended {
+    background-color: black;
+    padding: 20px;
+    color: wheat;
+    text-align: center;
+    font-style: italic;
+    margin: 70px;
+
+}
