@@ -7,8 +7,11 @@ body {
 }
 
 .bioData {
+    margin: 70px;
+
     display: flex;
     margin-top: 80px;
+    border-radius: 10px;
 
 }
 
@@ -36,6 +39,7 @@ body {
 .IntroInfo img {
     width: 50%;
     height: 85%;
+    margin-top: 40px;
     padding-left: 300px;
 
 }
@@ -45,5 +49,69 @@ body {
     border-image: linear-gradient(rgb(223, 223, 14) red);
     border-image-slice: 1;
 
+
+}
+
+
+/* Second Section Start */
+.dream {
+    margin: 70px;
+
+}
+
+.dream h1 {
+    font-size: 35px;
+}
+
+
+.missiontitle {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.Purpse {
+    display: flex;
+    width: 100%;
+
+
+
+}
+
+.MiViGo {
+    width: 33%;
+    margin: 10px;
+    text-align: justify;
+
+}
+
+.MiViGo img {
+    width: 50%;
+    height: 50%;
+}
+
+.mission {
+    background-color: antiquewhite;
+
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+
+.vission {
+    background-color: lightblue;
+
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+
+.goals {
+    background-color: rosybrown;
+
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
 
 }
