@@ -117,6 +117,11 @@ body {
 }
 
 /* Section 3 Start */
+
+.Develop-Limits {
+    margin-right: 70px;
+}
+
 .develop {
 
     display: flex;
@@ -139,3 +144,80 @@ body {
 .devinfo {
     padding-top: 130px;
 }
+
+/* Section 3 ended */
+
+
+/* Section 4 start */
+.global-Community {
+    margin-left: 70px;
+    margin-top: 100px;
+
+}
+
+
+.community {
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+    background-position: right;
+
+
+}
+
+.community img {
+    width: 70%;
+    margin-left: 40px;
+    padding-left: 50px;
+
+}
+
+.community-info {
+
+    margin-top: 120px;
+}
+
+/* Section 4 ended */
+
+
+
+/* Section 5 Start */
+.Viruses {
+    margin: 100px;
+
+
+
+}
+
+.coronatitle {
+    text-align: center;
+
+}
+
+.Covid {
+    display: flex;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position-x: left;
+    background-size: 100px;
+
+
+
+}
+
+.Covid-img img {
+    width: 70%;
+    height: 90%;
+}
+
+.safety {
+    width: 100%;
+    margin-top: 150px;
+
+}
+
+
+
+/* Section 5 ended */
