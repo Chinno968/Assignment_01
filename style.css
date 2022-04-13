@@ -1,0 +1,49 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: aliceblue;
+
+}
+
+.bioData {
+    display: flex;
+    margin-top: 80px;
+
+}
+
+.bioData h1 {
+    font-size: 35px;
+}
+
+.introduction {
+    color: orange;
+}
+
+.IntroInfo {
+    width: 50%;
+    padding-left: 50px;
+
+}
+
+.btn {
+    text-decoration: none;
+    background-color: yellow;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.IntroInfo img {
+    width: 50%;
+    height: 85%;
+    padding-left: 300px;
+
+}
+
+.radient {
+    border-left: 3px solid;
+    border-image: linear-gradient(rgb(223, 223, 14) red);
+    border-image-slice: 1;
+
+
+}
