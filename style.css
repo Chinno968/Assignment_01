@@ -115,3 +115,27 @@ body {
     border-radius: 30px;
 
 }
+
+/* Section 3 Start */
+.develop {
+
+    display: flex;
+    background-image: url(images/shapes/dream-bg.png);
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.devimg img {
+    margin-left: 40px;
+    width: 70%;
+    padding: 50px;
+
+
+
+}
+
+.devinfo {
+    padding-top: 130px;
+}
